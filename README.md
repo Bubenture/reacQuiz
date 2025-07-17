@@ -1,6 +1,6 @@
-# reacQuiz
+# reactQuiz
 
-![reacQuizя](reacQuiz)
+![reactQuizя](reactQuiz.webp)
 
 
 Простое приложение-викторина на React.
